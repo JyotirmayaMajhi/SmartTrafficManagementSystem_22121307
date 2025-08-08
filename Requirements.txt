@@ -1,0 +1,25 @@
+# Simulation Framework
+iFogSim2  # https://github.com/Cloudslab/iFogSim/archive/refs/heads/main.zip
+
+# Development Environment
+Eclipse IDE for Java Developers==2025  # https://www.eclipse.org/
+
+# Java Development Kit
+JDK==8 or later
+
+# Visualization & Diagramming
+draw.io (Diagrams.net)==2025  # https://app.diagrams.net/
+
+# Smart Traffic Simulation Code
+SmartTrafficManagementSystem_22121307==Custom  # https://github.com/JyotirmayaMajhi/SmartTrafficManagementSystem_22121307
+
+# Academic References and Frameworks
+IEEE Access Paper==A 5G-enabled Smart Traffic Monitoring System Based on IoT and Fog Computing
+IEEE IoT Journal==Fog computing: Principles, architectures, and applications
+Software: Practice and Experience==iFogSim toolkit for resource management
+Concurrency and Computation==OpenStack Neat framework
+
+# Required Libraries (Java-based, pre-included in iFogSim)
+CloudSim==3.0.3
+Apache Commons Math==3.6.1
+JFreeChart==1.0.19
